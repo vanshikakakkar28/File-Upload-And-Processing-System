@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "711d91e2-58b1-480c-acdd-b0d843e6ff17",
+		"name": "File Upload & Processing System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45888598"
+	},
+	"item": [
+		{
+			"name": "Upload",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "List Files",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Download",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
